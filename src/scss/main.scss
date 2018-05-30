@@ -12,7 +12,12 @@
 // Layout
 @import './layout/_float-grid.scss';
 @import './layout/container';
+@import './layout/section';
 
 // Components
+@import './components/box';
+@import './components/btn';
+@import './components/tag';
 
 // Pages
+@import './pages/home';
